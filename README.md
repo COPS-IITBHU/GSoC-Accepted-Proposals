@@ -1,4 +1,4 @@
-# GSoC Accepted Proposals: 2019-2021
+# GSoC Accepted Proposals: 2019-2022
 
 This repository serves as an archive of [GSoC - Google Summer of Code](https://summerofcode.withgoogle.com/) accepted proposals of IIT (BHU), Varanasi students. GSoC is an *F*ree and *O*pen *S*ource programme and COPS IIT (BHU) highly encourages the students to contribute to Open Source.
 
@@ -37,3 +37,28 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Rupal Sharma - UCCROSS](2021/UCCROSS%20-%202021%20-%20Rupal%20Sharma.pdf)
   - [Yash Jipkate - UCCROSS](2021/UCCROSS%20-%202021%20-%20Yash%20Jipkate.pdf)
   - [Purushottam Tiwari - Zulip](2021/Zulip%20-%202021%20-%20Purushottam%20Tiwari.pdf)
+
+### [2022](2022)
+  - [Lali Akhil Raj - AboutCode](2022/AboutCode%20-%202022%20-%20Lali%20Akhil%20Raj.pdf)
+  - [Aadeesh Oswal - CCExtractor](2022/CCExtractor%20-%202022%20-%20Aadeesh%20Oswal.pdf)
+  - [Aaditya Kumar Singh - CCExtractor](2022/CCExtractor%20-%202022%20-%20Aditya%20Kumar%20Singh.pdf)
+  - [Tarun Arora - CCExtractor](2022/CCExtractor%20-%202022%20-%20Tarun%20Arora.pdf)
+  - [Yash Prakash - CHAOSS](2022/CHAOSS%20-%202022%20-%20Yash%20Prakash.pdf)
+  - [Parth Bansal - CVXPY](2022/CVXPY%20-%202022%20-%20Parth%20Bansal.pdf)
+  - [Shubhrajyoti Dey - Global Alliance for Genomics and Health](2022/Global%20Alliance%20for%20Genomics%20and%20Health%20-%202022%20-%20Shubhrajyoti%20Dey.pdf)
+  - [Pratik Mishra - JDE Robot](2022/JDE%20Robot%20-%202022%20-%20Pratik%20Mishra.pdf)
+  - [Yash Raj Bharti - Liquid Galaxy](2022/Liquid%20Galaxy%20-%202022%20-%20Yash%20Raj%20Bharti.pdf)
+  - [Eshaan Agarwal - MLPack](2022/MLPack%20-%202022%20-%20Eshaan%20Agarwal.pdf)
+  - [Harsh Mahesheka - Open Robotics](2022/Open%20Robotics%20-%202022%20-%20Harsh%20Mahesheka.pdf)
+  - [Anshuman Maurya - Oppia](2022/Oppia%20-%202022%20-%20Anshuman%20Maurya.pdf)
+  - [Jeevesh Garg - Oppia](2022/Oppia%20-%202022%20-%20Jeevesh%20Garg.pdf)
+  - [Manan Rathi - Oppia](2022/Oppia%20-%202022%20-%20Manan%20Rathi.pdf)
+  - [Soumyajyoti Dey - Oppia](2022/Oppia%20-%202022%20-%20Soumyajyoti%20Dey.pdf)
+  - [Deepshikha Sinha - OWASP Foundation](2022/OWASP%20Foundation%20-%202022%20-%20Deepshikha%20Sinha.pdf)
+  - [Madhav Mittal - Python Software Foundation](2022/Python%20Software%20Foundation%20-%202022%20-%20Madhav%20Mittal.pdf)
+  - [Danish Ahmed Mirza - Rocket Chat](2022/Rocket%20Chat%20-%202022%20-%20Danish%20Ahmed%20Mirza.pdf)
+  - [P Aswini Kumar - Rocket Chat](2022/Rocket%20Chat%20-%202022%20-%20P%20Aswini%20Kumar.pdf)
+  - [Yash Raj - SAT](2022/SAT%20-%202022%20-%20Yash%20Raj.pdf)
+  - [Saumya Kushwaha - Sugar Labs](2022/Sugar%20Labs%20-%202022%20-%20Saumya%20Kushwaha.pdf)
+  - [Hitansh Shah - Wagtail](2022/Wagtail%20-%202022%20-%20Hitansh%20Shah.pdf)
+  - [Purushottam Tiwari - Zulip](2022/Zulip%20-%202022%20-%20Purushottam%20Tiwari.pdf)
