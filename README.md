@@ -62,3 +62,5 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Saumya Kushwaha - Sugar Labs](2022/Sugar%20Labs%20-%202022%20-%20Saumya%20Kushwaha.pdf)
   - [Hitansh Shah - Wagtail](2022/Wagtail%20-%202022%20-%20Hitansh%20Shah.pdf)
   - [Purushottam Tiwari - Zulip](2022/Zulip%20-%202022%20-%20Purushottam%20Tiwari.pdf)
+  - [Digvijay Bhosale](2022/OWASP%20-%202022%20-%20%20Digvijay%20Bhosale.pdf)
+
