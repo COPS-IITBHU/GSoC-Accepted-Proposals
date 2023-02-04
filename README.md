@@ -41,7 +41,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 ### [2022](2022)
   - [Lali Akhil Raj - AboutCode](2022/AboutCode%20-%202022%20-%20Lali%20Akhil%20Raj.pdf)
   - [Aadeesh Oswal - CCExtractor](2022/CCExtractor%20-%202022%20-%20Aadeesh%20Oswal.pdf)
-  - [Aaditya Kumar Singh - CCExtractor](2022/CCExtractor%20-%202022%20-%20Aditya%20Kumar%20Singh.pdf)
+  - [Aditya Kumar Singh - CCExtractor](2022/CCExtractor%20-%202022%20-%20Aditya%20Kumar%20Singh.pdf)
   - [Tarun Arora - CCExtractor](2022/CCExtractor%20-%202022%20-%20Tarun%20Arora.pdf)
   - [Yash Prakash - CHAOSS](2022/CHAOSS%20-%202022%20-%20Yash%20Prakash.pdf)
   - [Parth Bansal - CVXPY](2022/CVXPY%20-%202022%20-%20Parth%20Bansal.pdf)
