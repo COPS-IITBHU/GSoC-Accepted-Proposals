@@ -64,3 +64,5 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Purushottam Tiwari - Zulip](2022/Zulip%20-%202022%20-%20Purushottam%20Tiwari.pdf)
   - [Digvijay Bhosale - OWASP](2022/OWASP%20-%202022%20-%20%20Digvijay%20Bhosale.pdf)
 
+### [2023](2023)
+
