@@ -63,8 +63,9 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
   - [Hitansh Shah - Wagtail](2022/Wagtail%20-%202022%20-%20Hitansh%20Shah.pdf)
   - [Purushottam Tiwari - Zulip](2022/Zulip%20-%202022%20-%20Purushottam%20Tiwari.pdf)
   - [Digvijay Bhosale - OWASP](2022/OWASP%20-%202022%20-%20%20Digvijay%20Bhosale.pdf)
-
-- [Tarun Arora - CCExtractor](2023/CCExtractor%20-%202023%20-%20Tarun%20Arora.pdf)
+    
+### [2023](2023)
+ - [Tarun Arora - CCExtractor](2023/CCExtractor%20-%202023%20-%20Tarun%20Arora.pdf)
  - [Somya Bansal - CERN HSF](2023/CERN%20HSF%20-%202023%20-%20Somya%20Bansal.pdf)
  - [Himanshu Kumar - Emory BMI](2023/Emory%20BMI%20-%202023%20-%20Himanshu%20Kumar.pdf)
  - [Nithish Kartik - Kubevirt](2023/Kubevirt%20-%202023%20-%20Nithish%20Kartik.pdf)
