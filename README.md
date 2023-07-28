@@ -80,3 +80,19 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
  - [Mohit Marathe - VideoLAN](2023/VideoLAN%20-%202023%20-%20Mohith%20Marathe.pdf)
  - [Paarth Agarwal - Wagtail](2023/Wagtail%20-%202023%20-%20Paarth%20Agarwal.pdf)
  - [Ujjawal Modi - Zulip](2023/Zulip-2023-%20Ujjawal%20Modi.pdf)
+ - [Shubhangi Choudhary - Stratosphere Research Laboratory](2023/Stratosphere%20Research%20Laboratory%20-%202023%20-%20Shubhangi%20Choudhary.pdf)
+
+### [Other Open Source Fellowships](Other%20Fellowships)
+ #### Linux Foundation Mentorship (LFX)
+  - [Ankur Patil - CNCF](Other%20Fellowships/LFX%20-%20CNCF%20-%202023%20-%20Ankur%20Patil.pdf)
+  - [Paarth Agarwal - CNCF HArbor](Other%20Fellowships/LFX%20-%20CNCF-Harbor%20-%202023%20-%20Paarth%20Agarwal.pdf)
+ #### Summer of Bitcoin (SoB)
+  - [Prakhar Agarwal - Padawan Wallet](Other%20Fellowships/SoB%20-%20Padawan%20Wallet%20-%20Prakhar%20Agarwal.pdf)
+  - [Lakshya Singh - VLS](Other%20Fellowships/SoB%20-%20VLS%20-%20Lakshya%20Singh.pdf)
+
+ #### Summer of Reproducibility
+  - [Srishti Jaiswal - UC OSPO](Other%20Fellowships/SoR%20-%20UC%20OSPO%20-%202023%20-%20Shrishti%20Jaiswal.pdf)
+
+ #### XROS Fellowship
+  - [Paarth Agarwal - Hacedor](Other%20Fellowships/XROS%20Fellowship%20-%20Hacedor%20-%20Paarth%20Agarwal.pdf)
+
