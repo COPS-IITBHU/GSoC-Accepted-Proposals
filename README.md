@@ -77,6 +77,6 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
  - [Partik Singh - Score Labs](2023/ScoreLabs%20-%202023%20-%20Partik%20Singh.pdf)
  - [Ishan Pandhare - Sympy](2023/Sympy%20-%202023-%20Ishan%20Pandhare.pdf)
  - [Nandini Saagar - UC OSPO](2023/UC%20OSPO%20-%202023%20-%20Nandini%20Saagar.pdf)
- - [Mohit Marathe - VLC](2023/VLC%20-%202023%20-%20Mohith%20Marathe.pdf)
+ - [Mohit Marathe - VideoLAN](2023/VLC%20-%202023%20-%20Mohith%20Marathe.pdf)
  - [Paarth Agarwal - Wagtail](2023/Wagtail%20-%202023%20-%20Paarth%20Agarwal.pdf)
  - [Ujjawal Modi - Zulip](2023/Zulip-2023-%20Ujjawal%20Modi.pdf)
