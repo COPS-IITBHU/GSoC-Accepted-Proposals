@@ -92,6 +92,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 
  #### Summer of Reproducibility
   - [Srishti Jaiswal - UC OSPO](Other%20Fellowships/SoR%20-%20UC%20OSPO%20-%202023%20-%20Shrishti%20Jaiswal.pdf)
+  - [Krishna Madhwani - UC OSPO](Other%20Fellowships/SoR%20-%20UC%20OSPO%20-%202023%20-%20Krishna%20Madhwani.pdf)
 
  #### XROS Fellowship
   - [Paarth Agarwal - Hacedor](Other%20Fellowships/XROS%20Fellowship%20-%20Hacedor%20-%20Paarth%20Agarwal.pdf)
