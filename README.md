@@ -1,4 +1,4 @@
-# GSoC Accepted Proposals: 2019-2022
+# GSoC Accepted Proposals: 2019-2023
 
 This repository serves as an archive of [GSoC - Google Summer of Code](https://summerofcode.withgoogle.com/) accepted proposals of IIT (BHU), Varanasi students. GSoC is an *F*ree and *O*pen *S*ource programme and COPS IIT (BHU) highly encourages the students to contribute to Open Source.
 
