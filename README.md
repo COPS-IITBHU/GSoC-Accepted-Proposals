@@ -1,4 +1,4 @@
-# GSoC Accepted Proposals: 2019-2023
+# GSoC Accepted Proposals: 2019-2024
 
 This repository serves as an archive of [GSoC - Google Summer of Code](https://summerofcode.withgoogle.com/) accepted proposals of IIT (BHU), Varanasi students. GSoC is an *F*ree and *O*pen *S*ource programme and COPS IIT (BHU) highly encourages the students to contribute to Open Source.
 
@@ -109,6 +109,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 - [M Vishwanath Sai - Prometheus-operator](2024/ScrapeConfig%20Proposal%20-%20Viswa.pdf)
 - [Adi Akhilesh - UC OSPO](2024/StatWrap-Proposal%20-%20Adi%20Akhilesh%20Singh%205-Year%20IDD%20Computer%20Science%20and%20Engineering.pdf)
 - [Nandini Arora - Wagtail](2024/Wagtail_24%20(Low%20Carbon%20Emission)%20-%20Nandini%20Arora.pdf)
+- [Kislay U. Verma - Zulip](2024/GSOC-KislayVerma.pdf)
 
 ### [Other Open Source Fellowships](Other%20Fellowships)
 
