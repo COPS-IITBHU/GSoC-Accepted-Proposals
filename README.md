@@ -118,6 +118,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 - [Ankur Patil - CNCF](Other%20Fellowships/LFX%20-%20CNCF%20-%202023%20-%20Ankur%20Patil.pdf)
 - [Paarth Agarwal - CNCF HArbor](Other%20Fellowships/LFX%20-%20CNCF-Harbor%20-%202023%20-%20Paarth%20Agarwal.pdf)
 - [Hari Sudarsan - KubeArmor](Other%20Fellowships/LFX-HARI%20SUDARSAN.pdf)
+- [Korada Vishal - CNCF KCL](Other%20Fellowships/LFX%20-%20CNCF-KCL%20-%202024%20-%20Korada%20Vishal.pdf)
 
 #### Summer of Bitcoin (SoB)
 
