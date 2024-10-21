@@ -89,6 +89,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 
 ### [2024](2024)
 
+- [Anoushka Jha - Learning Equality](2024/Anoushka_Jha_Learning%20Equality_GSoC.pdf)
 - [Eshaan Aggarwal - Software and Computational Systems Lab at LMU Munich](2024/BenchExec_EshaanAgg%20-%20Eshaan%20Aggarwal.pdf)
 - [Bhav Khurana - International Catrobat Association](2024/Bhav%20Khurana%20Catrobat%20GSoC%20-%20Bhav%20Khurana.pdf)
 - [Paarth Agarwal - D4CG](2024/GSOC%202024%20-%20D4CG%20-%20Paarth%20Agarwal.docx)
