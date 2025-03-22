@@ -95,7 +95,7 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 - [Paarth Agarwal - D4CG](2024/GSOC%202024%20-%20D4CG%20-%20Paarth%20Agarwal.docx)
 - [Abhinav Pandey - PEcAn Project](2024/GSoC-Abhinav-Pandey.pdf)
 - [Mintu Gogoi - AsyncAPI](2024/Gsoc-accepted%20-%20Mintu%20Gogoi.pdf)
-- [Ayush Sahu - Creative Commons](2024/GSoC-AyushSahu.pdf)
+- [Ayush Sahu - Creative Commons](2024/Ayush-Sahu-GSoC.pdf)
 - [Divya Tiwari - NumFOCUS](2024/GSoC-Divya-Tiwari.pdf)
 - [Mohit Marathe - LibreOffice](2024/GSoC-Mohit-Marathe.pdf)
 - [Chaitanya Gambali - Apertium](2024/gsoc-proposal%20-%20Chaitanya%20Gambali.pdf)
