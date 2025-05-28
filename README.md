@@ -105,33 +105,55 @@ This repository serves as an archive of [GSoC - Google Summer of Code](https://s
 - [Sriram Ashwin - Prometheus-Operator](2024/Prometheus-Operator%20-%202024%20-%20Sriram%20Ashwin.pdf)
 - [Utkarsh Kumar - mlpack](2024/mlpack%20-%20%202024%20-%20Utkarsh%20Kumar.pdf)
 - [Vaishnavi Gupta - SU2](2024/Stichting%20SU2%20-%202024%20-%20Vaishnavi%20Gupta.pdf)
-- [Keerthi Reddy - INCF](2024/INCF%20-%202024%20-%20Keerthi%20Reddy.pdf)
+- [Keerthi Reddy - INCF](2024/incf%20-%202024%20-%20Keerthi%20Reddy.pdf)
 - [Aarav Mehta - Global Alliance for Genomics and Health](2024/GA4GH%20-%202024%20-%20Aarav%20Mehta.pdf)
 - [M Vishwanath Sai - Prometheus-operator](2024/Prometheus-Operator%20-%202024%20-%20M%20Viswanath%20Sai.pdf)
 - [Adi Akhilesh - UC OSPO](2024/UC%20OSPO%20-%202024%20-%20Adi%20Akhilesh%20Singh.pdf)
 - [Nandini Arora - Wagtail](2024/Wagtail%20-%202024%20-%20Nandini%20Arora.pdf)
 - [Kislay Verma - Zulip](2024/Zulip%20-%202024%20-%20Kislay%20Verma.pdf)
+- [Krishna Madhwani - AOSSIE](2024/AOSSIE%20-%202024%20-%20Krishna%20Madhwani.pdf)
+- [Harsh Raj - DatenLord](2024/DatenLord%20-%202024%20-%20Harsh%20Raj.pdf)
+- [Shashank Shekhar Singh - HumanAI](2024/HumanAI%20-%202024%20-%20Shashank%20Shekhar%20Singh.pdf)
+- [Shashank Kumar - Robolectric](2024/Robolectric%20-%202024%20-%20Shashank%20Kumar.pdf)
+- [Archit Dabral - UC OSPO](2024/UC%20OSPO%20-%202024%20-%20Archit%20Dabral.pdf)
+- [Ashutosh Verma - VideoLAN](2024/VideoLAN%20-%202024%20-%20Ashutosh%20Verma.pdf)
 
 ### [Other Open Source Fellowships](Other%20Fellowships)
 
 #### Linux Foundation Mentorship (LFX)
 
-- [Ankur Patil - CNCF](Other%20Fellowships/LFX%20-%20CNCF%20-%202023%20-%20Ankur%20Patil.pdf)
-- [Paarth Agarwal - CNCF HArbor](Other%20Fellowships/LFX%20-%20CNCF-Harbor%20-%202023%20-%20Paarth%20Agarwal.pdf)
-- [Hari Sudarsan - KubeArmor](Other%20Fellowships/LFX-HARI%20SUDARSAN.pdf)
-- [Korada Vishal - CNCF KCL](Other%20Fellowships/LFX%20-%20CNCF-KCL%20-%202024%20-%20Korada%20Vishal.pdf)
+- [Ankur Patil - CNCF (2023)](Other%20Fellowships/LFX%20-%202023%20-%20CNCF%20-%20Ankur%20Patil.pdf)
+- [Paarth Agarwal - CNCF HArbor (2023)](Other%20Fellowships/LFX%20-%202023%20-%20CNCF-Harbor%20-%20Paarth%20Agarwal.pdf)
+- [Hari Sudarsan - KubeArmor (2024)](Other%20Fellowships/LFX%20-%202024%20-%20KubeArmor%20-%20HARI%20SUDARSAN.pdf)
+- [Korada Vishal - CNCF KCL (2024)](Other%20Fellowships/LFX%20-%202024%20-%20CNCF-KCL%20-%20Korada%20Vishal.pdf)
+- [Prakhar Agarwal - CNCF Konveyor (2023)](Other%20Fellowships/LFX%20-%202023%20-%20CNCF-Konveyor%20-%20Prakhar%20Agarwal.pdf)
+- [Shashank Mittal - CNCF KCL (2024)](Other%20Fellowships/LFX%20-%202024%20-%20CNCF-KCL%20-%20Shashank%20Mittal.pdf)
+- [D N Siva Sathyaseelan - CNCF Kyverno (2024)](Other%20Fellowships/LFX%20-%202024%20-%20CNCF-Kyverno%20-%20D%20N%20Siva%20Sathyaseelan.pdf)
+- [Shashank Kumar - Hyperledger (2024)](Other%20Fellowships/LFX%20-%202024%20-%20Hyperledger%20-%20Shashank%20Kumar.pdf)
+- [Shashank Shekhar Singh - LFN (2024)](Other%20Fellowships/LFX%20-%202024%20-%20LFN%20-%20Shashank%20Shekhar%20Singh.pdf)
 
 #### Summer of Bitcoin (SoB)
 
-- [Prakhar Agarwal - Padawan Wallet](Other%20Fellowships/SoB%20-%20Padawan%20Wallet%20-%20Prakhar%20Agarwal.pdf)
-- [Lakshya Singh - VLS](Other%20Fellowships/SoB%20-%20VLS%20-%20Lakshya%20Singh.pdf)
+- [Prakhar Agarwal - Padawan Wallet (2023)](Other%20Fellowships/SoB%20-%202023%20-%20Padawan%20Wallet%20-%20Prakhar%20Agarwal.pdf)
+- [Lakshya Singh - VLS (2023)](Other%20Fellowships/SoB%20-%202023%20-%20VLS%20-%20Lakshya%20Singh.pdf)
+- [Tirth Bhayani - Blockcore (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Blockcore%20-%20Tirth%20Bhayani.pdf)
+- [Abhinav Agarwalla - Floresta (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Floresta%20-%20Abhinav%20Agarwalla.docx)
+- [Prakhar Agarwal - Galoy (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Galoy%20-%20Prakhar%20Agarwal.pdf)
+- [Shashank Shekhar Singh - Libbitcoin (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Libbitcoin%20-%20Shashank%20Shekhar%20Singh.pdf)
+- [Aarav Mehta - Robosats (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Robosats%20-%20Aarav%20Mehta.pdf)
+- [Rijul Singla - Robosats (2024)](Other%20Fellowships/SoB%20-%202024%20-%20Robosats%20-%20Rijul%20Singla.pdf)
+- [Harsh Raj - VLS (2024)](Other%20Fellowships/SoB%20-%202024%20-%20VLS%20-%20Harsh%20Raj.pdf)
 
 #### Summer of Reproducibility
 
-- [Srishti Jaiswal - UC OSPO](Other%20Fellowships/SoR%20-%20UC%20OSPO%20-%202023%20-%20Shrishti%20Jaiswal.pdf)
-- [Krishna Madhwani - UC OSPO](Other%20Fellowships/SoR%20-%20UC%20OSPO%20-%202023%20-%20Krishna%20Madhwani.pdf)
-- [Archit Dabral - UC OSPO](Other%20Fellowships/proposal%20-%20Archit%20Dabral.pdf)
+- [Srishti Jaiswal - UC OSPO (2023)](Other%20Fellowships/SoR%20-%202023%20-%20UC%20OSPO%20-%20Shrishti%20Jaiswal.pdf)
+- [Krishna Madhwani - UC OSPO (2023)](Other%20Fellowships/SoR%20-%202023%20-%20UC%20OSPO%20-%20Krishna%20Madhwani.pdf)
+- [Archit Dabral - UC OSPO (2023)](Other%20Fellowships/proposal%20-%20Archit%20Dabral.pdf)
 
 #### XROS Fellowship
 
-- [Paarth Agarwal - Hacedor](Other%20Fellowships/XROS%20Fellowship%20-%20Hacedor%20-%20Paarth%20Agarwal.pdf)
+- [Paarth Agarwal - Hacedor (2023)](Other%20Fellowships/XROS%20Fellowship%20-%202023%20-%20Hacedor%20-%20Paarth%20Agarwal.pdf)
+
+#### C4GT Mentorship
+
+- [Shashank Kumar - Zendalona (2024)](Other%20Fellowships/C4GT%20-%202024%20-%20Zendalona%20-%20Shashank%20Kumar.pdf)
